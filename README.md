@@ -1,2 +1,2 @@
-# HTML para as aulas da faculdade
-Projetos de Desenvolvimento Web
+# HTML
+Projetos de Desenvolvimento Web da faculdade
